@@ -25,13 +25,14 @@ body {
     background-attachment: fixed;
     background-position: center; 
     background-color: #18121E;
-
 }
 
-p.round3 {    
-    border: 2px solid red;    
-    border-radius: 12px;
-}
+p {     
+    border-top-style: dotted;     
+    border-right-style: solid;     
+    border-bottom-style: dotted;     
+    border-left-style: solid;}
+
 
 .container {
   margin: 0 auto;
