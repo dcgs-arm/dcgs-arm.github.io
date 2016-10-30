@@ -27,7 +27,14 @@ body {
     background-color: #18121E;
 }
 	    
-	    
+table {     
+    border-collapse: collapse;
+} 
+
+table, th, td {
+    border: 1px solid black;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -35,6 +42,7 @@ body {
   width: 100%;
 	background: rgba(38, 175, 66,0.8);
 }
+
 
 
 h1, h2, h3, h4, h5, h6 {
