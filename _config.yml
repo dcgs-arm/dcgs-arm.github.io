@@ -4,7 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Samuel
-colour: $white;
+colour: $white; 
 
 # Short bio or description (displayed in the header)
 description: Hopeful new programmer.
