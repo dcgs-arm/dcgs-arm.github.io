@@ -41,7 +41,7 @@ published: true
     <td>Summary</td>
   </tr>
   <tr>
-    <td>Our teacher told us at the beginning of the lesson that we would be learning how to use google sheets. I was excited because i had never learnt google sheets before and only knew that it was very useful for grouping data.  </td>
+    <td>Our teacher told us at the beginning of the lesson that we would be learning how to use google sheets. I was excited because i had never learnt google sheets before and only knew that it was very useful for grouping data.  </td>
   </tr>
   <tr>
     <td>What i did well in the lesson</td>
@@ -62,3 +62,5 @@ published: true
 <br>
 
 <h3>SpreadSheets<h2/>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQh1cwQUEahjH0ipdxYHXGclQKomqvs0bY_s4W8TEkeMGALLzDf-F164T4qZXQkUwqqaHA08niUdO1L/pubhtml?widget=true&amp;headers=false"></iframe>
